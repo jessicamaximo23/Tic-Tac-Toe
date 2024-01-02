@@ -1,5 +1,5 @@
 # TIC TAC TOE
-This is a basic project that I am developing for practiced my knowledge
+This is a basic project that I am developed to practice my knowledge in Kotlin
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
